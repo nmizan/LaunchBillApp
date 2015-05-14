@@ -1,0 +1,9 @@
+G:\LaunchBillApp\LaunchBillApp\bin\Debug\LaunchBillApp.exe.config
+G:\LaunchBillApp\LaunchBillApp\bin\Debug\LaunchBillApp.exe
+G:\LaunchBillApp\LaunchBillApp\bin\Debug\LaunchBillApp.pdb
+G:\LaunchBillApp\LaunchBillApp\obj\Debug\LaunchBillApp.csprojResolveAssemblyReference.cache
+G:\LaunchBillApp\LaunchBillApp\obj\Debug\LaunchBillApp.Form1.resources
+G:\LaunchBillApp\LaunchBillApp\obj\Debug\LaunchBillApp.Properties.Resources.resources
+G:\LaunchBillApp\LaunchBillApp\obj\Debug\LaunchBillApp.csproj.GenerateResource.Cache
+G:\LaunchBillApp\LaunchBillApp\obj\Debug\LaunchBillApp.exe
+G:\LaunchBillApp\LaunchBillApp\obj\Debug\LaunchBillApp.pdb
